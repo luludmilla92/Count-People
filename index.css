@@ -1,0 +1,56 @@
+body {
+    background-image: url("station.png");
+    background-size: cover;
+    background-position: 70%;
+    background-repeat: no-repeat;
+    font-family: 'Kurale', serif;
+    text-align: center;
+    
+}
+
+h1 {
+    margin-top: 250px;
+    margin-bottom: 10px;
+    margin-right: 50%;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-right: 50%;
+}
+
+p{
+    margin-right: 50%;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: gold;
+    font-weight: bold;
+    width: 350px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    margin-right: 50%;
+}
+
+#increment-btn {
+    background: rgba(139, 0, 0, 0.788);
+    font-size: 50px;
+}
+
+#save-btn {
+    background: rgba(0, 100, 0, 0.775);
+    font-size: 50px;
+}
+
+#del-btn{
+    background:rgba(10, 10, 147, 0.774) ;
+    font-size:25px ;
+}
